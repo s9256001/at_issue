@@ -1,0 +1,6 @@
+Time	sumBet	cycleBet	session	roundCode	Msg
+Jan 29, 2023 @ 13:19:03.863000000	3883	262	h6McWIXTH	AB3m1650712m1m1	Seat.CheckFishDetail: compSeatCycle.Bet != sumBet
+Jan 29, 2023 @ 13:12:54.479000000	624	158	h6MbLwZaQ	AB3m1650515m1m1	Seat.CheckFishDetail: compSeatCycle.Bet != sumBet
+Jan 29, 2023 @ 13:06:27.794000000	239	60	h6M6OycJs	AB3m1650278m1m1	Seat.CheckFishDetail: compSeatCycle.Bet != sumBet
+Jan 29, 2023 @ 12:49:01.287000000	1566	1068	h6MbkFFon	AB3m1649671m1m1	Seat.CheckFishDetail: compSeatCycle.Bet != sumBet
+Jan 29, 2023 @ 12:42:50.615000000	8	2	h6MbqQFlu	AB3m1649630m1m1	Seat.CheckFishDetail: compSeatCycle.Bet != sumBet
