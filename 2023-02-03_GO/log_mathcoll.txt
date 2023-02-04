@@ -1,0 +1,12 @@
+Time	Msg	session	roundCode
+Feb 3, 2023 @ 12:38:53.564000000	behavior.WeaponHit: len(compSeatMathStore.CollInfos) == 0	h6MdbFutz	AB3m1801614m1m4
+Feb 3, 2023 @ 12:38:52.512000000	behavior.WeaponHit: len(compSeatMathStore.CollInfos) == 0	h6MdbFutz	AB3m1801614m1m4
+Feb 3, 2023 @ 12:33:45.469000000	behavior.WeaponHit: len(compSeatMathStore.CollInfos) == 0	h6MdbFutz	AB3m1801361m1m4
+Feb 3, 2023 @ 12:33:44.429000000	behavior.WeaponHit: len(compSeatMathStore.CollInfos) == 0	h6MdbFutz	AB3m1801361m1m4
+Feb 2, 2023 @ 23:55:11.636000000	behavior.WeaponHit: len(compSeatMathStore.CollInfos) == 0	h6M9hLF7P	AB3m1784099m1m1
+Feb 2, 2023 @ 23:55:10.557000000	behavior.WeaponHit: len(compSeatMathStore.CollInfos) == 0	h6M9hLF7P	AB3m1784099m1m1
+
+account 分別為
+c54hoainono90
+c54hoainono90
+game33tes3621f
