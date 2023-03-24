@@ -11,4 +11,4 @@ GameCode：AT01
 
 问题：厂商反馈注单：AT560000008592365 ，赔率50-500倍的龙派彩异常，且无"更多"详情可点即查看，再麻烦协助确认，谢谢
 ```
-![](https://github.com/s9256001/at_issue/tree/main/2023-03-23_560000008592365/issue.png)
+![issue](https://github.com/s9256001/at_issue/blob/main/2023-03-23_560000008592365/issue.png "")
