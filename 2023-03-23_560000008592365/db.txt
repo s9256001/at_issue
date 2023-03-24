@@ -1,0 +1,23 @@
+*************************** 1. row ***************************
+         id: 536898992
+     fixing: 0
+    succeed: 1
+   res_code: 0
+    game_id: 10002
+   currency: VND(K)
+    user_id: 110434382
+  user_ssid: 63c54817d40194a7d513a6cd
+   actor_id: 1310760110434382
+   round_id: 560000008592365
+ bet_amount: 268.8000
+ bet_result: 220.7000
+    balance: 93.1700
+    op_type: roundlog
+    mt_code: pro-roundlog-AT560000008592365
+    request: 
+   response: {"actor_id":1310760110434382,"antes_v2":{"0.100000":{"fever_count":0,"kill_fishs":{},"shoot_count":0},"0.200000":{"fever_count":30,"kill_fishs":{"1":{"Count":2,"HitCount":4,"SkillHitCount":0,"WinCredit":"0.80"},"2":{"Count":3,"HitCount":7,"SkillHitCount":0,"WinCredit":"1.20"},"3":{"Count":1,"HitCount":2,"SkillHitCount":0,"WinCredit":"0.60"},"4":{"Count":2,"HitCount":5,"SkillHitCount":0,"WinCredit":"1.60"},"5":{"Count":1,"HitCount":5,"SkillHitCount":0,"WinCredit":"1.00"},"6":{"Count":0,"HitCount":1,"SkillHitCount":0,"WinCredit":"0.00"},"8":{"Count":0,"HitCount":1,"SkillHitCount":0,"WinCredit":"0.00"},"9":{"Count":0,"HitCount":6,"SkillHitCount":0,"WinCredit":"0.00"},"11":{"Count":1,"HitCount":6,"SkillHitCount":0,"WinCredit":"2.40"},"13":{"Count":3,"HitCount":12,"SkillHitCount":0,"WinCredit":"10.80"},"15":{"Count":1,"HitCount":28,"SkillHitCount":0,"WinCredit":"5.00"},"17":{"Count":0,"HitCount":12,"SkillHitCount":0,"WinCredit":"0.00"},"18":{"Count":1,"HitCount":3,"SkillHitCount":0,"WinCredit":"10.00"},"19":{"Count":1,"HitCount":24,"SkillHitCount":0,"WinCredit":"16.00"},"20":{"Count":0,"HitCount":9,"SkillHitCount":0,"WinCredit":"0.00"},"23":{"Count":0,"HitCount":76,"SkillHitCount":0,"WinCredit":"0.00"}},"shoot_count":201},"0.300000":{"fever_count":42,"kill_fishs":{"1":{"Count":6,"HitCount":12,"SkillHitCount":0,"WinCredit":"3.60"},"2":{"Count":7,"HitCount":13,"SkillHitCount":0,"WinCredit":"4.20"},"3":{"Count":8,"HitCount":35,"SkillHitCount":0,"WinCredit":"7.20"},"4":{"Count":3,"HitCount":23,"SkillHitCount":0,"WinCredit":"3.60"},"5":{"Count":5,"HitCount":43,"SkillHitCount":0,"WinCredit":"7.50"},"6":{"Count":2,"HitCount":29,"SkillHitCount":0,"WinCredit":"3.60"},"7":{"Count":4,"HitCount":9,"SkillHitCount":0,"WinCredit":"8.40"},"8":{"Count":1,"HitCount":27,"SkillHitCount":0,"WinCredit":"2.40"},"9":{"Count":5,"HitCount":27,"SkillHitCount":0,"WinCredit":"13.50"},"10":{"Count":3,"HitCount":70,"SkillHitCount":0,"WinCredit":"9.00"},"11":{"Count":1,"HitCount":6,"SkillHitCount":0,"WinCredit":"3.60"},"12":{"Count":1,"HitCount":37,"SkillHitCount":0,"WinCredit":"4.50"},"13":{"Count":3,"HitCount":30,"SkillHitCount":0,"WinCredit":"16.20"},"14":{"Count":2,"HitCount":66,"SkillHitCount":0,"WinCredit":"12.00"},"15":{"Count":1,"HitCount":57,"SkillHitCount":0,"WinCredit":"7.50"},"16":{"Count":0,"HitCount":19,"SkillHitCount":0,"WinCredit":"0.00"},"17":{"Count":2,"HitCount":50,"SkillHitCount":0,"WinCredit":"24.00"},"18":{"Count":1,"HitCount":40,"SkillHitCount":0,"WinCredit":"15.00"},"19":{"Count":1,"HitCount":24,"SkillHitCount":0,"WinCredit":"24.00"},"20":{"Count":0,"HitCount":29,"SkillHitCount":0,"WinCredit":"0.00"},"23":{"Count":1,"HitCount":116,"SkillHitCount":0,"WinCredit":"1.50"}},"shoot_count":762},"0.400000":{"fever_count":0,"kill_fishs":{},"shoot_count":0},"0.500000":{"fever_count":0,"kill_fishs":{},"shoot_count":0},"0.600000":{"fever_count":0,"kill_fishs":{},"shoot_count":0},"0.700000":{"fever_count":0,"kill_fishs":{},"shoot_count":0},"0.800000":{"fever_count":0,"kill_fishs":{},"shoot_count":0},"0.900000":{"fever_count":0,"kill_fishs":{},"shoot_count":0},"1.000000":{"fever_count":0,"kill_fishs":{},"shoot_count":0}},"base_antes":0.1,"base_credit":"100.77","bet_amount":"268.80","bet_result":"220.70","currency":"VND(K)","datetime_begin":"2023-03-22 09:40:51","datetime_end":"2023-03-22 09:44:00","denom":0.1,"final_credit":"93.17","game_pair_id":836027224070039600,"ground_type":"1","id":560000008592365,"room_id":10285,"total_fever_count":72,"total_shoot":963,"user_id":110434382}server_name: GS56
+  server_ip: 172.18.0.1
+    refixed: 0
+ created_at: 2023-03-22 09:44:00
+ updated_at: 2023-03-22 09:44:00
+   datetime: 2023-03-22 09:44:00

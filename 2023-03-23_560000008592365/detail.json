@@ -1,0 +1,267 @@
+{
+  "Code": 0,
+  "GameCode": "AT01",
+  "RoundCode": "AT560000008592365",
+  "AgentName": "zf026VND",
+  "UserName": "171agent_70899754",
+  "Currency": "VND(K)",
+  "MinBet": "0",
+  "Bet": "268.80",
+  "Pay": "220.70",
+  "Balance": "93.17",
+  "BeginTime": "2023-03-22T09:40:52-04:00",
+  "EndTime": "2023-03-22T09:44:00-04:00",
+  "OrderTime": "2023-03-22T09:44:00-04:00",
+  "Detail": {
+    "Antes": {
+      "0.10": {
+        "Bet": "0.00",
+        "KillFishes": {},
+        "Pay": "0.00",
+        "ShootCount": 0
+      },
+      "0.20": {
+        "Bet": "40.20",
+        "KillFishes": {
+          "1": {
+            "Count": 2,
+            "HitCount": "4",
+            "Pay": "0.80"
+          },
+          "2": {
+            "Count": 3,
+            "HitCount": "7",
+            "Pay": "1.20"
+          },
+          "3": {
+            "Count": 1,
+            "HitCount": "2",
+            "Pay": "0.60"
+          },
+          "4": {
+            "Count": 2,
+            "HitCount": "5",
+            "Pay": "1.60"
+          },
+          "5": {
+            "Count": 1,
+            "HitCount": "5",
+            "Pay": "1.00"
+          },
+          "6": {
+            "Count": 0,
+            "HitCount": "1",
+            "Pay": "0.00"
+          },
+          "8": {
+            "Count": 0,
+            "HitCount": "1",
+            "Pay": "0.00"
+          },
+          "9": {
+            "Count": 0,
+            "HitCount": "6",
+            "Pay": "0.00"
+          },
+          "11": {
+            "Count": 1,
+            "HitCount": "6",
+            "Pay": "2.40"
+          },
+          "13": {
+            "Count": 3,
+            "HitCount": "12",
+            "Pay": "10.80"
+          },
+          "15": {
+            "Count": 1,
+            "HitCount": "28",
+            "Pay": "5.00"
+          },
+          "17": {
+            "Count": 0,
+            "HitCount": "12",
+            "Pay": "0.00"
+          },
+          "18": {
+            "Count": 1,
+            "HitCount": "3",
+            "Pay": "10.00"
+          },
+          "19": {
+            "Count": 1,
+            "HitCount": "24",
+            "Pay": "16.00"
+          },
+          "20": {
+            "Count": 0,
+            "HitCount": "9",
+            "Pay": "0.00"
+          },
+          "23": {
+            "Count": 0,
+            "HitCount": "76",
+            "Pay": "0.00"
+          }
+        },
+        "Pay": "49.40",
+        "ShootCount": 201
+      },
+      "0.30": {
+        "Bet": "228.60",
+        "KillFishes": {
+          "1": {
+            "Count": 6,
+            "HitCount": "12",
+            "Pay": "3.60"
+          },
+          "2": {
+            "Count": 7,
+            "HitCount": "13",
+            "Pay": "4.20"
+          },
+          "3": {
+            "Count": 8,
+            "HitCount": "35",
+            "Pay": "7.20"
+          },
+          "4": {
+            "Count": 3,
+            "HitCount": "23",
+            "Pay": "3.60"
+          },
+          "5": {
+            "Count": 5,
+            "HitCount": "43",
+            "Pay": "7.50"
+          },
+          "6": {
+            "Count": 2,
+            "HitCount": "29",
+            "Pay": "3.60"
+          },
+          "7": {
+            "Count": 4,
+            "HitCount": "9",
+            "Pay": "8.40"
+          },
+          "8": {
+            "Count": 1,
+            "HitCount": "27",
+            "Pay": "2.40"
+          },
+          "9": {
+            "Count": 5,
+            "HitCount": "27",
+            "Pay": "13.50"
+          },
+          "10": {
+            "Count": 3,
+            "HitCount": "70",
+            "Pay": "9.00"
+          },
+          "11": {
+            "Count": 1,
+            "HitCount": "6",
+            "Pay": "3.60"
+          },
+          "12": {
+            "Count": 1,
+            "HitCount": "37",
+            "Pay": "4.50"
+          },
+          "13": {
+            "Count": 3,
+            "HitCount": "30",
+            "Pay": "16.20"
+          },
+          "14": {
+            "Count": 2,
+            "HitCount": "66",
+            "Pay": "12.00"
+          },
+          "15": {
+            "Count": 1,
+            "HitCount": "57",
+            "Pay": "7.50"
+          },
+          "16": {
+            "Count": 0,
+            "HitCount": "19",
+            "Pay": "0.00"
+          },
+          "17": {
+            "Count": 2,
+            "HitCount": "50",
+            "Pay": "24.00"
+          },
+          "18": {
+            "Count": 1,
+            "HitCount": "40",
+            "Pay": "15.00"
+          },
+          "19": {
+            "Count": 1,
+            "HitCount": "24",
+            "Pay": "24.00"
+          },
+          "20": {
+            "Count": 0,
+            "HitCount": "29",
+            "Pay": "0.00"
+          },
+          "23": {
+            "Count": 1,
+            "HitCount": "116",
+            "Pay": "1.50"
+          }
+        },
+        "Pay": "171.30",
+        "ShootCount": 762
+      },
+      "0.40": {
+        "Bet": "0.00",
+        "KillFishes": {},
+        "Pay": "0.00",
+        "ShootCount": 0
+      },
+      "0.50": {
+        "Bet": "0.00",
+        "KillFishes": {},
+        "Pay": "0.00",
+        "ShootCount": 0
+      },
+      "0.60": {
+        "Bet": "0.00",
+        "KillFishes": {},
+        "Pay": "0.00",
+        "ShootCount": 0
+      },
+      "0.70": {
+        "Bet": "0.00",
+        "KillFishes": {},
+        "Pay": "0.00",
+        "ShootCount": 0
+      },
+      "0.80": {
+        "Bet": "0.00",
+        "KillFishes": {},
+        "Pay": "0.00",
+        "ShootCount": 0
+      },
+      "0.90": {
+        "Bet": "0.00",
+        "KillFishes": {},
+        "Pay": "0.00",
+        "ShootCount": 0
+      },
+      "1.00": {
+        "Bet": "0.00",
+        "KillFishes": {},
+        "Pay": "0.00",
+        "ShootCount": 0
+      }
+    },
+    "GroundType": 1
+  }
+}
