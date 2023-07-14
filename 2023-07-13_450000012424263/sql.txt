@@ -1,0 +1,7 @@
+- 把 op_type = 'cashout' (rollin) 那筆
+- res_code 由 -3 改為 -2 // 啟動補單 (含 refund) 機制
+- refixed 由 0 改為 100 // 避免又被搬到 games_logs_temp (refixed=100 可以跳過判斷, 不把它移到 _temp)
+
+insert into account_db.games_logs(`fixing`, `succeed`, `res_code`, `game_id`, `user_id`, `actor_id`, `round_id`, `bet_amount`, `bet_result`, `op_type`, `mt_code`, `request`, `response`, `server_name`, `server_ip`, `refixed`, `created_at`, `updated_at`, `currency`, `user_ssid`, `balance`, `datetime`)
+select `fixing`, `succeed`, case when op_type = 'cashout' and `res_code` = -3 then -2 else `res_code` end, `game_id`, `user_id`, `actor_id`, `round_id`, `bet_amount`, `bet_result`, `op_type`, `mt_code`, `request`, `response`, `server_name`, `server_ip`, case when op_type = 'cashout' then 100 else `refixed` end, `created_at`, `updated_at`, `currency`, `user_ssid`, `balance`, `datetime`
+from account_db.games_logs_temp where round_id = 450000012424263;
