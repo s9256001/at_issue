@@ -1,0 +1,96 @@
+{
+  "actor_id": 2938500111867737,
+  "antes_v2": {
+    "0.100000": {
+      "fever_count": 0,
+      "kill_fishs": {
+        "4": { "Count": 0, "HitCount": 1, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "6": { "Count": 0, "HitCount": 1, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "14": { "Count": 0, "HitCount": 1, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "15": { "Count": 0, "HitCount": 3, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "23": { "Count": 0, "HitCount": 1, "SkillHitCount": 0, "WinCredit": "0.00" }
+      },
+      "shoot_count": 7
+    },
+    "0.200000": {
+      "fever_count": 0,
+      "kill_fishs": {
+        "4": { "Count": 1, "HitCount": 5, "SkillHitCount": 0, "WinCredit": "0.80" },
+        "6": { "Count": 0, "HitCount": 2, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "9": { "Count": 2, "HitCount": 21, "SkillHitCount": 0, "WinCredit": "3.60" },
+        "15": { "Count": 0, "HitCount": 8, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "23": { "Count": 0, "HitCount": 54, "SkillHitCount": 0, "WinCredit": "0.00" }
+      },
+      "shoot_count": 90
+    },
+    "0.300000": {
+      "fever_count": 0,
+      "kill_fishs": {
+        "6": { "Count": 4, "HitCount": 40, "SkillHitCount": 0, "WinCredit": "7.20" },
+        "7": { "Count": 1, "HitCount": 2, "SkillHitCount": 0, "WinCredit": "2.10" },
+        "8": { "Count": 1, "HitCount": 4, "SkillHitCount": 0, "WinCredit": "2.40" },
+        "9": { "Count": 3, "HitCount": 13, "SkillHitCount": 0, "WinCredit": "8.10" },
+        "10": { "Count": 0, "HitCount": 10, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "11": { "Count": 2, "HitCount": 38, "SkillHitCount": 0, "WinCredit": "7.20" },
+        "14": { "Count": 0, "HitCount": 1, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "15": { "Count": 0, "HitCount": 1, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "16": { "Count": 0, "HitCount": 14, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "20": { "Count": 0, "HitCount": 33, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "23": { "Count": 0, "HitCount": 135, "SkillHitCount": 0, "WinCredit": "0.00" }
+      },
+      "shoot_count": 291
+    },
+    "0.400000": {
+      "fever_count": 0,
+      "kill_fishs": {
+        "7": { "Count": 1, "HitCount": 4, "SkillHitCount": 0, "WinCredit": "2.80" },
+        "8": { "Count": 0, "HitCount": 2, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "12": { "Count": 0, "HitCount": 2, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "17": { "Count": 0, "HitCount": 10, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "23": { "Count": 0, "HitCount": 37, "SkillHitCount": 0, "WinCredit": "0.00" }
+      },
+      "shoot_count": 55
+    },
+    "0.500000": {
+      "fever_count": 0,
+      "kill_fishs": {
+        "2": { "Count": 5, "HitCount": 11, "SkillHitCount": 0, "WinCredit": "5.00" },
+        "3": { "Count": 0, "HitCount": 3, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "5": { "Count": 5, "HitCount": 15, "SkillHitCount": 0, "WinCredit": "12.50" },
+        "8": { "Count": 0, "HitCount": 9, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "9": { "Count": 1, "HitCount": 7, "SkillHitCount": 0, "WinCredit": "4.50" },
+        "11": { "Count": 0, "HitCount": 1, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "12": { "Count": 2, "HitCount": 18, "SkillHitCount": 0, "WinCredit": "15.00" },
+        "14": { "Count": 0, "HitCount": 2, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "15": { "Count": 1, "HitCount": 10, "SkillHitCount": 0, "WinCredit": "12.50" },
+        "16": { "Count": 0, "HitCount": 25, "SkillHitCount": 0, "WinCredit": "0.00" },
+        "17": { "Count": 1, "HitCount": 10, "SkillHitCount": 0, "WinCredit": "20.00" },
+        "18": { "Count": 1, "HitCount": 29, "SkillHitCount": 0, "WinCredit": "25.00" },
+        "20": { "Count": 1, "HitCount": 37, "SkillHitCount": 0, "WinCredit": "50.00" },
+        "23": { "Count": 0, "HitCount": 99, "SkillHitCount": 0, "WinCredit": "0.00" }
+      },
+      "shoot_count": 276
+    },
+    "0.600000": { "fever_count": 0, "kill_fishs": {}, "shoot_count": 0 },
+    "0.700000": { "fever_count": 0, "kill_fishs": {}, "shoot_count": 0 },
+    "0.800000": { "fever_count": 0, "kill_fishs": {}, "shoot_count": 0 },
+    "0.900000": { "fever_count": 0, "kill_fishs": {}, "shoot_count": 0 },
+    "1.000000": { "fever_count": 0, "kill_fishs": {}, "shoot_count": 0 }
+  },
+  "base_antes": 0.1,
+  "base_credit": "176.67",
+  "bet_amount": "266.00",
+  "bet_result": "178.70",
+  "currency": "VND(K)",
+  "datetime_begin": "2023-07-30 03:24:14",
+  "datetime_end": "2023-07-30 03:26:48",
+  "denom": 0.1,
+  "final_credit": "89.37",
+  "game_pair_id": 883044180023060500,
+  "ground_type": "1",
+  "id": 560000010372132,
+  "room_id": 10177,
+  "total_fever_count": 0,
+  "total_shoot": 719,
+  "user_id": 111867737
+}
